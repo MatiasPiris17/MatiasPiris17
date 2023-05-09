@@ -5,9 +5,9 @@
 
 - 🌱 Actualmente estoy aprendiendo **| Python |**
 
-- 📝 Conoce mis experiencias [ https://www.linkedin.com/in/matias-piris-791735241/ ](https://www.linkedin.com/in/matias-piris-791735241/)
-
 - 💬 Pregúntame sobre **reactJS, redux, expressJS, nodeJS**
+
+- 📝 Conoce mis experiencias [ https://www.linkedin.com/in/matias-piris-791735241/ ](https://www.linkedin.com/in/matias-piris-791735241/)
 
 - 📫 Como contactarme **matiaspiris2001@gmail.com**
 
