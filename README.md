@@ -1,22 +1,46 @@
-<h1 align="center">Soy Matias Piris😃</h1>
-<h3 align="center">UN APASIONADO FULL STACK DEVELOPER</h3>
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+    Matias</a></h1>
+    <h3 align="center">A passionate Full Stack developer from Argentina &#127462;&#127479</h3>
 
-<h3> 👩‍💻 Sobre mí : </h3>
+    <a target="_blank" align="center">
+      <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+    </a>
+    
+    - 🔭 I am currently learning | Python | 
+    
+    - 🌱 I’m currently Working on Wed App
+    
+    - 🤝 I’m available for freelancing.
+    
+    - 💬 Ask me about **ReactJS / NodeJS & SQL**
+    
+    - 📫 How to reach me **matiaslinkedin17@gmail.com**
+    
+    - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Ep0BoJi5Pg0p8bBQmqjWGYYUNK_g-aVi/view?usp=sharing" target="blank">Resume</a>
+    <br/>
 
-- 🌱 Actualmente estoy aprendiendo **| Python |**
+    
 
-- 💬 Pregúntame sobre **reactJS, redux, expressJS, nodeJS**
+    <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+    
+    <p align="center">
+    
+     <div align="center"  class="icons-social" style="margin-left: 10px;">
+            <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/matias-piris-791735241/">
+                <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 
-- 📝 Conoce mis experiencias [ https://www.linkedin.com/in/matias-piris-791735241/ ](https://www.linkedin.com/in/matias-piris-791735241/)
+            <a style="margin-left: 10px;" target="_blank" href="https://github.com/MatiasPiris17">
+                <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 
-- 📫 Como contactarme **matiaspiris2001@gmail.com**
+            <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/mati_piris17/">
+                <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 
-<br/>
+          </div>
+    
+    </p>
+    
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/matias-piris-791735241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/matias-piris-791735241/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Habilidades:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+    
+    Credit: [Matias Piris](https://github.com/MatiasPiris17)
+    
+    Last Edited on: 25/6/2023
