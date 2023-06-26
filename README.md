@@ -87,8 +87,8 @@
 <br>
 
 <li>
-<a href="mailto:linkedin.com/in/matias-piris-791735241" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Matias Piris-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:matiaslinkedin17@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  matiaslinkedin17@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
