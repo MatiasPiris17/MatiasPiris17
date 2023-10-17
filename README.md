@@ -13,17 +13,17 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I am currently learning | Python | 
+- 🔭 I am currently learning | PYTHON | JAVA
     
-- 🌱 I’m currently Working on Wed App
+- 🌱 I’m currently Working on Timbring
     
 - 🤝 I’m available for freelancing.
     
-- 💬 Ask me about **ReactJS / NodeJS & SQL**
+- 💬 Ask me about **React | Node | SQL**
     
 - 📫 How to reach me **matiaslinkedin17@gmail.com**
     
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Ep0BoJi5Pg0p8bBQmqjWGYYUNK_g-aVi/view?usp=sharing" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1hxASfbXk-VemKvKZTd4fOUw2G90pSf8Q/view?usp=sharing" target="blank">Resume</a>
     <br/>
 
 <br>
@@ -44,31 +44,41 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
+### Backend development:
+&emsp;
+![Nest.js](https://img.shields.io/badge/-Nest.js-000?&logo=Nest.js)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Mongoose](https://img.shields.io/badge/-Mongoose-000?&logo=Mongoose)
+![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)
+![TypeORM](https://img.shields.io/badge/-TypeORM-000?&logo=TypeORM)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+
 ### Frontend development:
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-
-### Misc tools:
-&emsp;
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-
-### Services & Frameworks: 
-&emsp;
-![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
 ### Databases:
 &emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+
+### Tools:
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-000?&logo=Thunder%20Client)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual-Studio-Code)
+![Git Bash](https://img.shields.io/badge/-Git%20Bash-000?&logo=Git)
+
+### Services: 
+&emsp;
+![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
+![API de Meta Business](https://img.shields.io/badge/-API%20de%20Meta%20Business-000)
+
 
 <br>
 
