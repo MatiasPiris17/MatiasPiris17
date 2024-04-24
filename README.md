@@ -38,26 +38,24 @@
 
 <p align="center">
 
-### Programming languages:
-&emsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-
 ### Backend development:
 &emsp;
-![Nest.js](https://img.shields.io/badge/-Nest.js-000?&logo=Nest.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-![Mongoose](https://img.shields.io/badge/-Mongoose-000?&logo=Mongoose)
-![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)
-![TypeORM](https://img.shields.io/badge/-TypeORM-000?&logo=TypeORM)
+![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
 ### Databases:
 &emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+
+### Databases:
+&emsp;
+![Hazelcast](https://img.shields.io/badge/-Hazelcast-000?&logo=Hazelcast)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ)
 
 <br>
 
