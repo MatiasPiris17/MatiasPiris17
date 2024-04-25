@@ -41,7 +41,7 @@
 ### Backend development:
 &emsp;
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![GoLand](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
