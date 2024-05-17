@@ -13,7 +13,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I am currently learning | Go
+- 🔭 I am currently learning | C# | Go
     
 - 🌱 I am currently working as a Backend Software Developer
     
@@ -22,9 +22,6 @@
 - 💬 Ask me about **Node | Python | Typescript | SQL**
     
 - 📫 How to reach me **matiaslinkedin17@gmail.com**
-    
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1J1-oJve1sOFpOI9K_-LH4flE06FtSfxq/view?usp=drive_link" target="blank">Resume</a>
-    <br/>
 
 <br>
 <br>
@@ -40,19 +37,22 @@
 
 ### Backend development:
 &emsp;
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![GoLand](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![C#](https://img.shields.io/badge/-C#-000?&logo=C#)
+![GoLand](https://img.shields.io/badge/-Go-000?&logo=Go)
 
 ### Databases:
 &emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
-### Herramientas:
+### Tools:
 &emsp;
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Hazelcast](https://img.shields.io/badge/-Hazelcast-000?&logo=Hazelcast)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ)
 
